@@ -98,4 +98,4 @@ async def commands(ctx):
         embed.add_field(name="/reportlog", value="Send full report log to mod", inline=True)
 
     await ctx.send(embed=embed)
-bot.run('MTQwMjgwOTUzODQxMDk3NTM0Mg.GTAJEY.vi1MHSKyD2OHOqqUAMCIp4-ISlkAzXtLr5tmOg')
+bot.run(DCBT)
